@@ -1,0 +1,8 @@
+1. clone the repo
+2. create a tocken
+3. add it in the local repo using the following cmd
+git remote set-url origin htto://username/pass@github.com/username/repo.git
+
+4. git add .
+5. git commit
+6. git push
